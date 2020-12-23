@@ -13,3 +13,4 @@ ALBERT: A Lite BERT for Self-supervised Learning of Language Representations htt
 Reading Comprehension Based Question Answering - SQuAD (https://rajpurkar.github.io/SQuAD-explorer) \
 Conversational Question Answering - CoQA (https://stanfordnlp.github.io/coqa) \
 Reading Wikipedia to Answer Open Domain Questions (https://arxiv.org/abs/1704.00051) ACL - 2017 \
+Adversarial Examples for Evaluating Reading Comprehension Systems (SQuAD)h https://arxiv.org/pdf/1707.07328.pdf
