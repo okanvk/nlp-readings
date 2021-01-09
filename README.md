@@ -3,9 +3,9 @@
 
 ### Language Models
 
-BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding https://arxiv.org/pdf/1810.04805.pdf \
-ELECTRA: Pre-training Text Encoders as Discriminators Rather Than Generators https://arxiv.org/pdf/2003.10555.pdf \
-ALBERT: A Lite BERT for Self-supervised Learning of Language Representations https://arxiv.org/pdf/1909.11942.pdf \
+BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding <a href="https://arxiv.org/pdf/1810.04805.pdf">Link</a> \
+ELECTRA: Pre-training Text Encoders as Discriminators Rather Than Generators <a href="https://arxiv.org/pdf/2003.10555.pdf ">Link</a> \
+ALBERT: A Lite BERT for Self-supervised Learning of Language Representations <a href="https://arxiv.org/pdf/1909.11942.pdf">Link</a> \ 
 
 
 ### Question Answering
