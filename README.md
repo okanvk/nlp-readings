@@ -10,11 +10,12 @@ ALBERT: A Lite BERT for Self-supervised Learning of Language Representations <a 
 
 ### Question Answering
 
-Reading Comprehension Based Question Answering - SQuAD (https://rajpurkar.github.io/SQuAD-explorer) \
-Conversational Question Answering - CoQA (https://stanfordnlp.github.io/coqa) \
-Reading Wikipedia to Answer Open Domain Questions (https://arxiv.org/abs/1704.00051) ACL - 2017 \
-Adversarial Examples for Evaluating Reading Comprehension Systems (SQuAD) https://arxiv.org/pdf/1707.07328.pdf \
-A Detailed Account of The First Question Generation Shared Task https://www.aclweb.org/anthology/W10-4234.pdf \
+Reading Comprehension Based Question Answering - SQuAD <a href="https://rajpurkar.github.io/SQuAD-explorer">Link</a> \
+Conversational Question Answering - CoQA <a href="https://stanfordnlp.github.io/coqa">Link</a> \
+Reading Wikipedia to Answer Open Domain Questions <a href="https://arxiv.org/abs/1704.00051">Link</a> \
+Adversarial Examples for Evaluating Reading Comprehension Systems (SQuAD)  <a href="https://arxiv.org/pdf/1707.07328.pdf">Link</a> \
+A Detailed Account of The First Question Generation Shared Task <a href="https://www.aclweb.org/anthology/W10-4234.pdf">Link</a> \
+
 Extending Neural Question Answering with Linguistic Input Features https://www.aclweb.org/anthology/W19-5806.pdf \
 Knowledge Graph Embedding Based Question Answering http://research.baidu.com/Public/uploads/5c1c9a58317b3.pdf \ 
 BERT+vnKG: Using Deep Learning and Knowledge Graph to Improve Vietnamese Question Answering System \ https://www.researchgate.net/publication/343423827_BERTvnKG_Using_Deep_Learning_and_Knowledge_Graph_to_Improve_Vietnamese_Question_Answering_System
