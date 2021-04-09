@@ -17,6 +17,6 @@ Adversarial Examples for Evaluating Reading Comprehension Systems (SQuAD)  <a hr
 A Detailed Account of The First Question Generation Shared Task <a href="https://www.aclweb.org/anthology/W10-4234.pdf">Link</a> \
 Extending Neural Question Answering with Linguistic Input Features <a href="https://www.aclweb.org/anthology/W19-5806.pdf">Link</a> \
 Knowledge Graph Embedding Based Question Answering <a href="http://research.baidu.com/Public/uploads/5c1c9a58317b3.pdf">Link</a> 
-BERT+vnKG: Using Deep Learning and Knowledge Graph to Improve Vietnamese Question Answering System <a href="https://www.researchgate.net/publication/343423827_BERTvnKG_Using_Deep_Learning_and_Knowledge_Graph_to_Improve_Vietnamese_Question_Answering_System">Link</a> 
-
+BERT+vnKG: Using Deep Learning and Knowledge Graph to Improve Vietnamese Question Answering System <a href="https://www.researchgate.net/publication/343423827_BERTvnKG_Using_Deep_Learning_and_Knowledge_Graph_to_Improve_Vietnamese_Question_Answering_System">Link</a> \
+Introduction to Neural Network based Approaches for Question Answering over Knowledge Graphs <a ref="https://arxiv.org/pdf/1907.09361.pdf">Link</a> 
 
